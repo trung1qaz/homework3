@@ -1,0 +1,15 @@
+.col{
+    background:whites;
+    padding:0px;
+    margin:1%;
+    float:left;
+    width:30%;
+    
+}
+img{
+    width:100%;
+}
+.content{
+    border:solid lightgray;
+    padding:5px;
+}
